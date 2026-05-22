@@ -1,6 +1,6 @@
 """
 Thesis: An Empirical Analysis of the Impact of Financial Fundamentals on Corporate Profitability
-Author: Ashutosh
+Author: Vishal
 Description: This script generates all 8 figures used in the thesis.
 Requirements: pip install pandas numpy matplotlib statsmodels openpyxl
 """
